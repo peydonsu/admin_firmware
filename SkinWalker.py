@@ -10,3 +10,4 @@ class StealYourFlesh:
 
     def japanE():
         sine = winsound.MessageBeep(19)
+        death = playsound("deathscream.mp3")
